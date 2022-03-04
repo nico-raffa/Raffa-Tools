@@ -1,0 +1,90 @@
+body {
+  background-color: #fdf1ec;
+}
+
+.wrapper {
+  height: 440px;
+  width: 654px;
+  margin: 50px auto;
+  border-radius: 7px 7px 7px 7px;
+  /* VIA CSS MATIC https://goo.gl/cIbnS */
+  -webkit-box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.15);
+}
+
+.product-img img {
+  border-radius: 7px 0 0 7px;
+  border-style: initial;
+  float: left;
+  height: 440px;
+  width: 327px;
+}
+
+.product-info {
+  height: 420px;
+  width: 327px;
+  border-radius: 0 7px 10px 7px;
+  background-color: #ffffff;
+  display: grid;
+}
+
+.product-text {
+  height: 300px;
+  width: 327px;
+}
+
+.product-text h1 {
+  padding-top: 52px;
+  font-size: 34px;
+  color: #474747;
+}
+
+.product-text h1,
+.product-price-btn p {
+  font-family: "Bentham", serif;
+}
+
+.product-text h2 {
+  margin-top: 10px;
+  font-size: 13px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #d2d2d2;
+  letter-spacing: 0.2em;
+}
+
+.product-text p {
+  height: 100px;
+  margin: 0 0 0 38px;
+  font-family: "Playfair Display", serif;
+  color: #8d8d8d;
+  line-height: 1.7em;
+  font-size: 15px;
+  font-weight: lighter;
+  overflow: hidden;
+}
+
+.product-text span {
+  height: 50px;
+  font-family: "Suranna", serif;
+  font-size: 34px;
+}
+.goToCart{
+  font-size: 40px;
+  color: white;
+  background-color: #333;
+  text-decoration: none;
+}
+.goToCart:hover{
+  background-color: #ddd;
+  color: black;
+}
+.non-existent{
+  padding-top: 200px;
+  font-size: 30px;
+}
+.non-existent a{
+  text-decoration: none;
+}
