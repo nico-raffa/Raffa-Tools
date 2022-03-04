@@ -16,7 +16,7 @@ Esta librería se encarga de generar rutas dinámicas para asi facilitar la nave
 [FontAwesome](https://fontawesome.com).  
 Utilicé font awesome para agregar algunos íconos al sitio.
 
-[React-Bootrstrap](https://react-bootstrap.github.io)
+[React-Bootrstrap](https://react-bootstrap.github.io).
 Utilicé bootstrap para darle algunos estilos al sitio.
 
 
