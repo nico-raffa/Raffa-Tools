@@ -1,6 +1,6 @@
 ﻿# E-Commerce Raffa Tools
 
-Mi nombre es Nicolás Raffagnini y este es mi E-Commerce creado en el curso React.JS de Coderhouse 
+Mi nombre es Nicolás Raffagnini y este es mi E-Commerce
 
 ## 
 ![VideoGif](public/proyecto.gif)
